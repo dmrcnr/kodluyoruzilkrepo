@@ -14,6 +14,9 @@ Linux için;
 cd kodluyoruzilkrepo
 code .
 ```
+## Image of the project
+![Project Image](https://www.hizliresim.com/gq8lhlh)
+
 ## Contributing
 Pull requestler kabul edilir.Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açın.
 ## License
