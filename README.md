@@ -15,7 +15,7 @@ cd kodluyoruzilkrepo
 code .
 ```
 ## Image of the project
-![Project Image](https://www.hizliresim.com/gq8lhlh)
+![Project Image](https://i.hizliresim.com/gq8lhlh.JPG)
 
 ## Contributing
 Pull requestler kabul edilir.Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açın.
